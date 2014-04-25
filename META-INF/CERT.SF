@@ -1,0 +1,653 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: R6QTriAekGl1aLigIpZMyyuI6yA=
+
+Name: assets/www/image/ios/640/player_pause.png
+SHA1-Digest: acSneN8SCGYSNTmr2jygdG/2JMI=
+
+Name: assets/www/js/json.js
+SHA1-Digest: Ls+HIywm6W1qxOA9XJNm6aVbs5E=
+
+Name: res/xml/config.xml
+SHA1-Digest: V8xgIS5+v9bTMH/6cvW3w0UJd4w=
+
+Name: assets/www/image/ios/480/share.png
+SHA1-Digest: DdBOre8dWY8Zr26N2rJsOw934AM=
+
+Name: assets/www/image/ios/320/like.png
+SHA1-Digest: iOQPfY6sunyoz0xkJEXjmBveCbI=
+
+Name: assets/www/image/ios/640/input.png
+SHA1-Digest: 6NLVblQv/WmZcCsEgvMWAiTuhrU=
+
+Name: assets/www/image/ios/320/current.png
+SHA1-Digest: VCcSyI0DN+Mga6Lmo5iFPQoz8I8=
+
+Name: assets/www/image/ios/640/like_current.png
+SHA1-Digest: jFz+RfSF5sL+TiuEmeVTkMQc7Ls=
+
+Name: assets/www/image/ios/640/playing_current.png
+SHA1-Digest: QOodw1CID4cz6Vlpy6dWMQUF780=
+
+Name: res/drawable-mdpi/notification.png
+SHA1-Digest: +mTVcGFX8w3acUT60HCPJajRmW4=
+
+Name: assets/www/image/ios/640/share.png
+SHA1-Digest: GlWVSvFCymPiUEY1cjrvkult8to=
+
+Name: assets/www/image/ios/480/playing.png
+SHA1-Digest: GVTUyp+qGd1eFC3pAtEinZ1aQaI=
+
+Name: assets/www/plugins/org.apache.cordova.dialogs/www/notification.j
+ s
+SHA1-Digest: ZGUtM48RJPjUP7nucTxHqP+3fTk=
+
+Name: assets/www/image/ios/320/cancel.png
+SHA1-Digest: mkooQwlUefgJh2mEVUnUsWzIgyw=
+
+Name: assets/www/plugins/com.douban.cordova.feedback/www/feedback.js
+SHA1-Digest: YDuin8cvy1LpJl8wCSzrzZp4sKo=
+
+Name: assets/www/css/retina.css
+SHA1-Digest: GpH+RmRukTOlk30N2xviaqfUwuo=
+
+Name: assets/www/image/ios/640/player_play_hover.png
+SHA1-Digest: QhzaXv93XjzcM98XdOyWqvLJPn0=
+
+Name: res/drawable-ldpi/notification.png
+SHA1-Digest: C0iTG0XS1k6cqPAWJd1wHV+IoV4=
+
+Name: assets/www/plugins/org.apache.cordova.statusbar/www/statusbar.js
+SHA1-Digest: 8kXu7srxY/ZUJ+2MbEhV5wY7xfo=
+
+Name: assets/www/image/ios/240/player_play_hover.png
+SHA1-Digest: ILxINYAcecrPo4bM6X+pxCiSBsA=
+
+Name: assets/www/cordova.js
+SHA1-Digest: MaxewiqX2YL1fkxi0fv/52TVulE=
+
+Name: assets/www/image/ios/320/player_play_hover.png
+SHA1-Digest: BQizI32l9P17gMMbkSd5XXTDahI=
+
+Name: assets/www/plugins/com.douban.cordova.socialsharing/www/socialsh
+ aring.js
+SHA1-Digest: 8oVC9ULfDzytSdQIjp4RAY/SDPw=
+
+Name: assets/www/image/ios/320/like_hover.png
+SHA1-Digest: RTjhqVDui/OtxDsP/xLyZ4/XP7M=
+
+Name: assets/www/image/ios/320/cancel_hover.png
+SHA1-Digest: 67vtkl33foR9gyHEDe4iYHOBvmQ=
+
+Name: assets/www/image/ios/240/input.png
+SHA1-Digest: D7SUkzw+3F05347hphyFXqtwsY0=
+
+Name: assets/www/image/ios/480/like_hover.png
+SHA1-Digest: IYPoBUxGkpGi2K7uC5fi17ErOgI=
+
+Name: assets/www/image/ios/640/liked_s.png
+SHA1-Digest: q3zlubWWA4XwBBljcUVmeoRwjZM=
+
+Name: assets/www/image/ios/320/logo_text.png
+SHA1-Digest: uKFaGcBylN1U8MqwcC9esbBgzA4=
+
+Name: assets/www/image/ios/480/playing_hover.png
+SHA1-Digest: mypQNfwbW+39bQ7VnfJy5vreavI=
+
+Name: assets/www/plugins/org.apache.cordova.inappbrowser/www/InAppBrow
+ ser.js
+SHA1-Digest: m0oz7RLpD/aq8WN05MaK/cv5alc=
+
+Name: assets/www/image/ios/320/icon.psd
+SHA1-Digest: PBeF+Lb4P1DeI22/8tZbzpeiw50=
+
+Name: assets/www/image/ios/320/search_current.png
+SHA1-Digest: PmBwKHdCyTPfy6VRNp94Av2s31s=
+
+Name: assets/www/js/utils.js
+SHA1-Digest: dDiRRL3d0Kvvp+8VWhRZEroNiWY=
+
+Name: assets/www/image/ios/640/play_hover.png
+SHA1-Digest: My2AEUwSCiDOB83NAofvPqKZg44=
+
+Name: assets/www/image/ios/640/player_pause_hover.png
+SHA1-Digest: ER//84s4KfOKzilK84riK7ao/No=
+
+Name: assets/www/image/ios/480/cancel_hover.png
+SHA1-Digest: M2Ids/naNres8z+jiHMI5AGibng=
+
+Name: assets/www/image/ios/240/cancel.png
+SHA1-Digest: rJdiT6gf4t73X6VYc2gU6OgUzn4=
+
+Name: assets/www/image/ios/480/icon.psd
+SHA1-Digest: iUvx8193UWiHlM7nmnlVvBVhd/Q=
+
+Name: assets/www/image/ios/640/like_s.png
+SHA1-Digest: x+eDzYYnUQq0ymH3uw4hUDlpafE=
+
+Name: assets/www/image/ios/640/search_current.png
+SHA1-Digest: yZapqkHRndEtCf+/JW5qdBsj9nQ=
+
+Name: assets/www/image/ios/480/player_next.png
+SHA1-Digest: Xw8McC8JweySm+I5yKFjQqqgvXQ=
+
+Name: assets/www/image/ios/240/liked_s.png
+SHA1-Digest: 7j2eWMVuXi21yL3u8JmVZKj/3OI=
+
+Name: assets/www/childbrowser/icon_arrow_right.png
+SHA1-Digest: IDmgA+QgAuKhM7dDQkagwFEs2JA=
+
+Name: assets/www/js/handlers.js
+SHA1-Digest: 63b0e1gylHbqntqdjk0pYLVPrH8=
+
+Name: assets/www/image/ios/640/toplist_current.png
+SHA1-Digest: lMigLKPGRS6dQLVnltMWmrCsYkc=
+
+Name: assets/www/image/ios/240/play.png
+SHA1-Digest: RiwqXCKNFEkfOkdODqX1saZIz7k=
+
+Name: assets/www/image/ios/480/setting_arrow.png
+SHA1-Digest: bMOZpnXIC9cg3gZkpKaiRHU451k=
+
+Name: assets/www/js/jquery.ba-hashchange.js
+SHA1-Digest: 2WVYlUhXTjFpLkUMfQJT7IaNUtE=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: MgFP88YTDN86n5ZKnr985dJEIIQ=
+
+Name: assets/www/image/ios/640/appicon.png
+SHA1-Digest: DbLZwthhEvOlg/Bo9I6rVUlC5UE=
+
+Name: assets/www/image/ios/320/input.png
+SHA1-Digest: LDhLMimgnwZCEmWFFiFoPIY5HxY=
+
+Name: assets/www/css/icon480.css
+SHA1-Digest: teK2F+rJ012bxbUFw1EWHGwfMU4=
+
+Name: assets/www/image/ios/640/setting_arrow.png
+SHA1-Digest: H4COChuZD4aIP68Yme8ZKE60REk=
+
+Name: assets/www/css/icon240.css
+SHA1-Digest: TRT7TuGghLsmcN7cZaZev1xU5G8=
+
+Name: res/layout/feedback.xml
+SHA1-Digest: m1wzK8NJVCOOQZNc79dmX+kPPCU=
+
+Name: assets/www/image/ios/320/player.png
+SHA1-Digest: TjNEvzT6vOwWe8ZVxnvTq+sZY1Q=
+
+Name: assets/www/image/ios/240/playing_current.png
+SHA1-Digest: tE/fsPcu+3RpGEDCVg1dnxWWg0I=
+
+Name: assets/www/image/ios/240/icon.psd
+SHA1-Digest: cp6GpxaXp8lLhShqKATT4g+yMSY=
+
+Name: assets/www/image/ios/240/cancel_hover.png
+SHA1-Digest: Xmzt6yMHrQvgd46HerzznGyO0qQ=
+
+Name: assets/www/image/ios/240/selected.png
+SHA1-Digest: pQoUX6MigmVPL5OlhrF2N+h4/mQ=
+
+Name: assets/www/image/ios/320/unselected.png
+SHA1-Digest: 9oB/mO0GbOSWGcBFuYgSUaDDMbk=
+
+Name: assets/www/image/ios/640/playing.png
+SHA1-Digest: 5l0n0v/sQS5WolQ1sRAo0AWTunU=
+
+Name: assets/www/image/ios/240/back.png
+SHA1-Digest: WQJ22OlaC7PRtZysUEyYDhrPygQ=
+
+Name: assets/www/image/ios/480/search_hover.png
+SHA1-Digest: LGynJwSys6gFvhzwfVPpBykGm+k=
+
+Name: assets/www/image/ios/320/forward.png
+SHA1-Digest: LeKFybyhUYlcMVsTHTqxnsB2QDk=
+
+Name: assets/www/image/ios/320/liked_s.png
+SHA1-Digest: LKNwO1Bj5dQMzdaatnGXPtFkeSQ=
+
+Name: assets/www/image/ios/640/submit.png
+SHA1-Digest: Wy+HfGgEnbM6NOp1sZ8CT3QJGwM=
+
+Name: assets/www/image/ios/240/player_pause.png
+SHA1-Digest: 3Gbd19ETaHiDwS1T47ENeaiilxA=
+
+Name: assets/www/plugins/com.douban.cordova.statusbarnotification/www/
+ android/statusbarnotification.js
+SHA1-Digest: +Kf+HY1sLN5mLOzql2gmOvVsmC0=
+
+Name: assets/www/image/ios/320/toplist_current.png
+SHA1-Digest: /XbJYJ4tzkGUn/FIiT5DHt9RiCg=
+
+Name: assets/www/image/ios/640/player.png
+SHA1-Digest: n42VMwlHNp3+KnDpG+r0DIH4Uws=
+
+Name: assets/www/image/ios/240/playing.png
+SHA1-Digest: 8QK4zD7wI0wLfMmgJDJmfv4pyiw=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 7Da5GqK47JepkjYcCIruboq9zz0=
+
+Name: assets/www/image/ios/320/play.png
+SHA1-Digest: /15jImVa/hr+sxUOtWU78qgqpwA=
+
+Name: assets/www/image/ios/240/like.png
+SHA1-Digest: mWdhMoe5VxOkNaJ4hz85XuDWRAs=
+
+Name: assets/www/image/ios/320/submit.png
+SHA1-Digest: HKAiZ0S/uoCnPl8fee0A22QFMRE=
+
+Name: assets/www/css/iphone.css
+SHA1-Digest: KItIOwTRybHoydWvrgtA5f8elqQ=
+
+Name: assets/www/image/ios/320/back.png
+SHA1-Digest: 8YIsEhP5E8aem7Y3aPiP27S9T+4=
+
+Name: assets/www/image/ios/480/input.png
+SHA1-Digest: /VCgJP04PHZVAZc2cs+J6J5QzaU=
+
+Name: assets/www/static/t.mp3
+SHA1-Digest: m25MjXzA0gNba713RM3kE++HD50=
+
+Name: assets/www/image/ios/480/cancel.png
+SHA1-Digest: cG3r8VZrf99A/eJj37VCu/S75DI=
+
+Name: assets/www/image/ios/320/link.png
+SHA1-Digest: 5ctYXKg2vlJgb2blpET4ZO9uWvw=
+
+Name: assets/www/image/ios/640/player_current.png
+SHA1-Digest: ZkO06Nezg4L+EltdSHmSLciqkdY=
+
+Name: assets/www/image/ios/320/playing_current.png
+SHA1-Digest: oD892dU38aMionc5AGiwbur9sLI=
+
+Name: assets/www/image/ios/640/player_play.png
+SHA1-Digest: e+8faeV89rIThl7SeYrozYWWOvI=
+
+Name: assets/www/image/ios/320/player_play.png
+SHA1-Digest: 7JSbH9uIPtbbX8WihFPaaiBYkZY=
+
+Name: assets/www/image/ios/480/like_current.png
+SHA1-Digest: JgdKOaydReD/QIc8aygd9hA2nTE=
+
+Name: assets/www/plugins/com.douban.cordova.softkeyboard/www/android/s
+ oftkeyboard.js
+SHA1-Digest: s7jWHmrSK5iERTHQOlpcZnVbjhs=
+
+Name: assets/www/static/loading.gif
+SHA1-Digest: 7a4i/jcfBqH3kojeGR924exvNqA=
+
+Name: assets/www/image/ios/480/playing_current.png
+SHA1-Digest: kSj+CARqdDd6cY4tiXL5Lw5g0/o=
+
+Name: assets/www/image/ios/320/selected.png
+SHA1-Digest: EhznNfXgLBxoQSWh8pEvPIyJI+M=
+
+Name: assets/www/image/ios/480/toplist.png
+SHA1-Digest: EDmtxsfT8bDqtuMcHLlEcEhESjk=
+
+Name: assets/www/image/ios/480/unselected.png
+SHA1-Digest: 821MD4xR+UJV8tmtbm8rMf/ipIY=
+
+Name: assets/www/image/ios/240/player.png
+SHA1-Digest: MSkkCBS2B2saY2B3vor2598E/lo=
+
+Name: assets/www/image/ios/240/toplist_current.png
+SHA1-Digest: NCIB3gZ6T+dq32yoZN5juz1tSf0=
+
+Name: res/drawable-xhdpi/notification.png
+SHA1-Digest: /nvWcGOGkCqrOWxKAESz4Ibyhwc=
+
+Name: assets/www/image/ios/240/forward.png
+SHA1-Digest: /56omEZrb/LG01FWigmFOlP5Csw=
+
+Name: assets/www/image/ios/640/cancel_hover.png
+SHA1-Digest: kRpvK83IzOfw79tx1BdEERxlv5s=
+
+Name: assets/www/image/ios/240/share.png
+SHA1-Digest: dS77JR2XeUQXNvdke6Se/pPCuTs=
+
+Name: assets/www/css/android.css
+SHA1-Digest: F/j+8PCJELsqX2MXkE2av5cg86w=
+
+Name: assets/www/image/ios/240/like_current.png
+SHA1-Digest: TzTQo8nT8HlZLKABLqWcyqi3R6A=
+
+Name: assets/www/image/ios/240/submit.png
+SHA1-Digest: ism6RQMbzHx2mEw/xIkPSPZHrO8=
+
+Name: assets/www/image/ios/480/back_hover.png
+SHA1-Digest: ptjroQvEO6v+B0br+fA9Ool6SJM=
+
+Name: assets/www/image/ios/240/toplist_hover.png
+SHA1-Digest: t7+5kTVn0IbtZP29OAOTvYuCISM=
+
+Name: assets/www/plugins/org.apache.cordova.media/www/Media.js
+SHA1-Digest: GNentVneeyJrkO1FZ6o2wSQpK2M=
+
+Name: assets/www/plugins/com.douban.cordova.pushnotification/www/pushn
+ otification.js
+SHA1-Digest: IjzeIpKjHiPTwO2694tqweMBFmg=
+
+Name: assets/www/js/iscroll.js
+SHA1-Digest: cTlVUa5xhIsOJFE25rAr3L0iQAI=
+
+Name: assets/www/image/ios/320/player_next.png
+SHA1-Digest: wUQgXLQpkVYJ8Oiits3DLcuygN4=
+
+Name: assets/www/image/ios/640/forward.png
+SHA1-Digest: aAyYlY4Vs+Wfi9ocqDInPgjPAdY=
+
+Name: assets/www/image/ios/240/current.png
+SHA1-Digest: 1GbJ/S7gWdF9iFRKPXjE6Rovy0M=
+
+Name: assets/www/image/ios/240/player_next_hover.png
+SHA1-Digest: PWLCN4o01Xh/+wJkGJp8Qu6j8FI=
+
+Name: assets/www/image/ios/640/toplist.png
+SHA1-Digest: iBEZVoMAJo3dqG0kohMC1XUnIWM=
+
+Name: assets/www/image/ios/480/forward.png
+SHA1-Digest: O0vfmALm7e2bXL5pEhoGz6BePyE=
+
+Name: assets/www/image/ios/240/setting_arrow.png
+SHA1-Digest: XtDzMVK2h8jF42kNgGSHoT5/v84=
+
+Name: assets/www/image/ios/480/play.png
+SHA1-Digest: lfh7F0jWOFTlGA6NLCDcJ5806as=
+
+Name: assets/www/image/ios/640/logo_text.png
+SHA1-Digest: Lu42sLkQcMtW/j8EpiU8sK6JtlQ=
+
+Name: assets/www/image/ios/240/link.png
+SHA1-Digest: wcmdJWoeyIVBAi+colQUVY2y8sA=
+
+Name: assets/www/image/ios/480/player_current.png
+SHA1-Digest: 2XFyiiANE74fzor/YwC/E1x0+C8=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 7P2+WOcPa1poX1uguRorszecjk0=
+
+Name: assets/www/image/ios/640/player_next_hover.png
+SHA1-Digest: ZL8u0YUv6DY0zVYvNy+FBgIQLXo=
+
+Name: assets/www/image/ios/640/search_hover.png
+SHA1-Digest: qW2xuwmhvrFXjWzZVE7iP9TJHmM=
+
+Name: assets/www/image/ios/320/like_s.png
+SHA1-Digest: athwjfECpc6YlC/Vp0B15Kf6Dbo=
+
+Name: assets/www/image/ios/480/submit.png
+SHA1-Digest: BeZxpi/UuszdRB8tl3YwsGFuUyw=
+
+Name: assets/www/image/ios/240/like_hover.png
+SHA1-Digest: MGe95Tgg1kkstuF3+McclFDEUy0=
+
+Name: assets/www/plugins/org.apache.cordova.dialogs/www/android/notifi
+ cation.js
+SHA1-Digest: aNM3pSwjcU4kfdXwvU0n2Feztjw=
+
+Name: assets/www/image/ios/320/play_hover.png
+SHA1-Digest: ETmGnzXXbFehTba4AilDk2SNzGM=
+
+Name: assets/www/image/ios/640/player_next.png
+SHA1-Digest: AwY8K9xP0L5eJ5BoM0y5Zmm02zc=
+
+Name: assets/www/image/ios/640/like.png
+SHA1-Digest: EhE8QyU7796WiW0y39ejF8q6UvU=
+
+Name: assets/www/image/ios/240/player_next.png
+SHA1-Digest: s0Z4pga01+b6Ua23Is9FsCyXTgE=
+
+Name: assets/www/image/ios/480/search_current.png
+SHA1-Digest: RUDzc2vAj4ChRmN+d2N+e4h7820=
+
+Name: assets/www/image/ios/640/selected.png
+SHA1-Digest: 1xURyY6chzAd36+avbjG91EKIAU=
+
+Name: assets/www/image/ios/480/player_play_hover.png
+SHA1-Digest: 7pP5cP8PDu8sd7RhyKPF1SPDVvc=
+
+Name: assets/www/image/ios/320/setting_arrow.png
+SHA1-Digest: SV8P4VaszS3ef1LsRpHwzvSEqWI=
+
+Name: assets/www/image/ios/480/player_play.png
+SHA1-Digest: lRg2xrOnxjMPwoFcBjLi8+pGuBw=
+
+Name: assets/www/image/ios/240/search_current.png
+SHA1-Digest: HdAl+fBrPSJRPynVNI8B+xAWG4c=
+
+Name: assets/www/image/ios/480/play_hover.png
+SHA1-Digest: LOEvRpNtn6Vz9VQq8jucq/03L7s=
+
+Name: assets/www/image/ios/640/back.png
+SHA1-Digest: UJxI4srUTFWMAr3jFJn6lDPKtFY=
+
+Name: assets/www/image/ios/640/submit_active.png
+SHA1-Digest: rR3HutgY7vS5bS8OxT7dxFyI3sk=
+
+Name: assets/www/image/ios/320/player_next_hover.png
+SHA1-Digest: 2RCrzh9UVh2aSsHbtrV2Hl0rdvM=
+
+Name: assets/www/image/ios/640/search_s.png
+SHA1-Digest: y4sYHVC8y8axWEyFXGhxJd1xfVs=
+
+Name: assets/www/image/ios/640/search.png
+SHA1-Digest: tbERDyX+1ISqt5TGyRBOPRlsYAY=
+
+Name: assets/www/childbrowser/icon_close.png
+SHA1-Digest: OV8+i0JFoxGKQJtbAiGBIJdSqmg=
+
+Name: resources.arsc
+SHA1-Digest: kD7tnaYgAOxXOyKSOoCgk7sJwSc=
+
+Name: assets/www/image/ios/240/back_hover.png
+SHA1-Digest: j/jyGQIwe44J4JG15YvVUL3CN7Q=
+
+Name: assets/www/config.xml
+SHA1-Digest: ZCMJKRizc+8ddkXgwhZUC0iAsIs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9VCx7ekSfrXPduUcv5nfGbfxZ+Q=
+
+Name: assets/www/image/ios/480/player_pause.png
+SHA1-Digest: ZCgrubpL25nnbPFK9BOSQDuBzL8=
+
+Name: assets/www/image/ios/240/logo_text.png
+SHA1-Digest: Wdm+Ps82nq2GJ2+96q1lBNIR1D4=
+
+Name: assets/www/image/ios/320/toplist.png
+SHA1-Digest: fqosjaJoE7cPWL9aYq/Lk+klDoo=
+
+Name: assets/www/image/ios/240/play_hover.png
+SHA1-Digest: OihRAZ4kQbfI3b7C5QfSCKClTSM=
+
+Name: assets/www/image/ios/480/link.png
+SHA1-Digest: 690QRcLBlUKo/JjqP/VEV30EZ+k=
+
+Name: assets/www/image/ios/640/like_hover.png
+SHA1-Digest: V3LEq5fSoB8swry/NKVZwnX0JxU=
+
+Name: assets/www/image/ios/320/submit_active.png
+SHA1-Digest: OlhrmTqMKcbwajPmBp5DZCunWIo=
+
+Name: assets/www/image/ios/480/search.png
+SHA1-Digest: sjVxf5DUV9l1kDzzwUa61+VFOFo=
+
+Name: assets/www/image/ios/480/like_s.png
+SHA1-Digest: 9pNldqRuhPsiz/y6IjeoYxVb91U=
+
+Name: classes.dex
+SHA1-Digest: 7jma8ZO4dqUU9j4pbxsAX8gtj9Y=
+
+Name: assets/www/image/ios/240/search_s.png
+SHA1-Digest: LAmO2hbzESdIEW/eV0aQSSl7ZvQ=
+
+Name: assets/www/image/ios/640/current.png
+SHA1-Digest: V8Yex4Q4UiivK9Jewl2O46F/6qI=
+
+Name: assets/www/image/ios/320/player_pause.png
+SHA1-Digest: q8itPk3UuXVhKtNcDrH7+maeq0M=
+
+Name: assets/www/image/ios/240/unselected.png
+SHA1-Digest: jeICYU7TgOIGyX9DDbQhQZyieXw=
+
+Name: assets/www/image/ios/480/liked_s.png
+SHA1-Digest: 8Lj000MtosYmc4Oe/J7H+YvqSaA=
+
+Name: assets/www/childbrowser/icon_arrow_left.png
+SHA1-Digest: tQs+gC8OVjiw2yAOYYhdf/g1cYA=
+
+Name: assets/www/image/ios/480/toplist_hover.png
+SHA1-Digest: b7Nxa7exkEvhnEExnmIbN0Hs9XA=
+
+Name: assets/www/image/ios/320/toplist_hover.png
+SHA1-Digest: qAAztj5yk++1Z0HSVe7v8ASMIUo=
+
+Name: assets/www/image/ios/240/player_pause_hover.png
+SHA1-Digest: kVaAz6jgA2wEWfqfLEeu4WmZr5w=
+
+Name: assets/www/image/ios/240/search.png
+SHA1-Digest: MUexcjghoJ6uFQklAyN1V+rX0Co=
+
+Name: assets/www/image/ios/640/link.png
+SHA1-Digest: it7GhG0JPj6G0y1SxVHx0995ekM=
+
+Name: assets/www/image/ios/320/like_current.png
+SHA1-Digest: 83hBzLZL/kgyBljPys0M6ZwOMfE=
+
+Name: assets/www/image/ios/640/back_hover.png
+SHA1-Digest: FHk3oMRM0oIkSOePMMAXvGZ9OXg=
+
+Name: assets/www/image/ios/480/player_pause_hover.png
+SHA1-Digest: u8fTMw0Ty6D5Vh+AnSH1YqcVJAc=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: n0oqXM3YWGs9STklleJ4+M3ZemQ=
+
+Name: assets/www/image/ios/640/toplist_hover.png
+SHA1-Digest: uYHiNX8GXopctsHOOAH8y2Vj+SY=
+
+Name: assets/www/image/ios/320/search_hover.png
+SHA1-Digest: S5dTdjLxeeLNFR+yLxAtGzr0m3E=
+
+Name: assets/www/image/ios/320/player_pause_hover.png
+SHA1-Digest: FMba0CtUweBdA/cfrUuaVEGGa3U=
+
+Name: assets/www/image/ios/480/logo_text.png
+SHA1-Digest: EOVy8comj2a80nGDzL0hzSNpGE4=
+
+Name: assets/www/image/ios/320/playing_hover.png
+SHA1-Digest: FSpI/LYyNsrWDymEN3f+Bt9FfoY=
+
+Name: assets/www/image/ios/320/search.png
+SHA1-Digest: p0Mz8DLLOzv2D6da88EKAAiZBxw=
+
+Name: assets/www/image/ios/640/icon.psd
+SHA1-Digest: z314Xd7duRhIj7whyV3yRkgM0fo=
+
+Name: assets/www/image/ios/640/app_icons.jpg
+SHA1-Digest: 3MUmHS47xINqms/EhUtszWJZbsU=
+
+Name: res/drawable-hdpi/notification.png
+SHA1-Digest: 5Hag3/dbppenhtsrQRSzOC3nJc0=
+
+Name: assets/www/README.md
+SHA1-Digest: C1IyKbyGPjMBcUuG1s6HvgeRPzM=
+
+Name: assets/www/image/ios/480/like.png
+SHA1-Digest: O9x6ek73dIxhrjOOYDUZe6VkXq8=
+
+Name: assets/www/plugins/com.douban.cordova.redirect/www/redirect.js
+SHA1-Digest: 5KU2JCkicPdTJ7DvtXEr8VO79Ak=
+
+Name: assets/www/image/ios/640/toplist1.png
+SHA1-Digest: e8cd+//WnWK1+pfR/XRqgQqmExY=
+
+Name: res/layout/main.xml
+SHA1-Digest: CuAd0KoBEm2bC9jkH3n+7v1cOsk=
+
+Name: assets/www/js/player_phonegap.js
+SHA1-Digest: ohje8CWiBZhoWYB9oyMbTcTiJKQ=
+
+Name: assets/www/image/ios/240/player_current.png
+SHA1-Digest: 87B8xGJUwMO4GfxOK5b5ZpurTh8=
+
+Name: assets/www/image/ios/320/back_hover.png
+SHA1-Digest: uo6PxrDMSRy5Q7TR4gMrYuR09RU=
+
+Name: assets/www/index.html
+SHA1-Digest: Bid/FR3UEMdj4ZkRosdYVZWKo28=
+
+Name: assets/www/image/ios/240/toplist.png
+SHA1-Digest: 2fmrgun5BG9vsSJSq5wRC3H27Vg=
+
+Name: assets/www/image/ios/480/current.png
+SHA1-Digest: V3+MPyXP28GI2sT7BGG4FWVkEBI=
+
+Name: assets/www/image/ios/640/playing_hover.png
+SHA1-Digest: xLRv2iQs6lREHvQ+L+fxK45PFuA=
+
+Name: assets/www/image/ios/320/player_current.png
+SHA1-Digest: +6iDDfjOh2Rasa70/glZCXXN96w=
+
+Name: assets/www/image/ios/240/playing_hover.png
+SHA1-Digest: 8wYB3vEoWdqFaFkExqv1b6NHmWI=
+
+Name: assets/www/image/ios/240/search_hover.png
+SHA1-Digest: VrmWomHoRFOpkmDqLQ2LpjNiKns=
+
+Name: assets/www/image/ios/320/playing.png
+SHA1-Digest: fl4uVwzty3UWPIYLeab/Y7Y7vlg=
+
+Name: assets/www/plugins/org.apache.cordova.media/www/MediaError.js
+SHA1-Digest: jufhG1Ezsb8c4dOgBiqw7t9UAks=
+
+Name: assets/www/js/jquery-2.0.1.min.js
+SHA1-Digest: yRoKA20O1/kk7u+G5rqaqR1I1eo=
+
+Name: assets/www/image/ios/240/player_play.png
+SHA1-Digest: /Q9TOL3dmSwBBdabCX4c8wJo9Z4=
+
+Name: assets/www/image/ios/240/like_s.png
+SHA1-Digest: DjDEiXcK6gxJBcshhbmW8RvkoKk=
+
+Name: assets/www/image/ios/480/back.png
+SHA1-Digest: ykrXnIqP9avwlbZ381wgWOMpfEY=
+
+Name: assets/www/image/ios/320/search_s.png
+SHA1-Digest: fPojnVjQ0JNJvmhqGirV0nw2kb8=
+
+Name: assets/www/image/ios/480/player_next_hover.png
+SHA1-Digest: a26OeE/97oTMZQb4ontRa+hZl1g=
+
+Name: assets/www/image/ios/480/selected.png
+SHA1-Digest: lRtI/p5rrhQ1pbtp0p7uIk4mlNQ=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: Il2WghDluNLNHEcPgQDBh02fHt8=
+
+Name: assets/www/image/ios/320/share.png
+SHA1-Digest: WWekHBVAZR2rJ38u+ZX5AQJsoGs=
+
+Name: assets/www/image/ios/480/search_s.png
+SHA1-Digest: +OT5gpNwTsJ6MHhYDSLySLmmfE0=
+
+Name: assets/www/image/ios/480/toplist_current.png
+SHA1-Digest: yapnu0asRN7EifrYXIRkFJPnsRY=
+
+Name: assets/www/image/ios/640/cancel.png
+SHA1-Digest: zU2jJ+1YYdLmmIbpyZr3H1wZqvA=
+
+Name: assets/www/image/ios/640/unselected.png
+SHA1-Digest: TUVWr5OIYtP+1T64Yjee7tSA2is=
+
+Name: assets/www/image/ios/480/player.png
+SHA1-Digest: PwoZKqDMc4KGFMLu0riOYdc4VkM=
+
+Name: assets/www/image/ios/640/play.png
+SHA1-Digest: tYYHO+WoDXgssHDKSVudReRKilc=
+
+Name: assets/www/static/make.py
+SHA1-Digest: vy8ibAV2QR9OM3Z1uFq2WSlz+fA=
+
